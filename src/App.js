@@ -1,7 +1,7 @@
-import MyProvider from "./InfiniteScroll";
+import InfiniteScroll from "./InfiniteScroll";
 
 const App = () => {
-  return <MyProvider />;
+  return <InfiniteScroll />;
 };
 
 export default App;
