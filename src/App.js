@@ -4,11 +4,4 @@ const App = () => {
   return <MyProvider />;
 };
 
-// eslint-disable-next-line
-export default () => {
-  return (
-    <MyProvider>
-      <App />
-    </MyProvider>
-  );
-};
+export default App;
