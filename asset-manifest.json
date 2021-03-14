@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/infinite-scroll-intersection-observer/static/css/main.c3c1802d.chunk.css",
+    "main.js": "/infinite-scroll-intersection-observer/static/js/main.410c662f.chunk.js",
+    "main.js.map": "/infinite-scroll-intersection-observer/static/js/main.410c662f.chunk.js.map",
+    "runtime-main.js": "/infinite-scroll-intersection-observer/static/js/runtime-main.f312358e.js",
+    "runtime-main.js.map": "/infinite-scroll-intersection-observer/static/js/runtime-main.f312358e.js.map",
+    "static/js/2.fafc357f.chunk.js": "/infinite-scroll-intersection-observer/static/js/2.fafc357f.chunk.js",
+    "static/js/2.fafc357f.chunk.js.map": "/infinite-scroll-intersection-observer/static/js/2.fafc357f.chunk.js.map",
+    "index.html": "/infinite-scroll-intersection-observer/index.html",
+    "static/css/main.c3c1802d.chunk.css.map": "/infinite-scroll-intersection-observer/static/css/main.c3c1802d.chunk.css.map",
+    "static/js/2.fafc357f.chunk.js.LICENSE.txt": "/infinite-scroll-intersection-observer/static/js/2.fafc357f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f312358e.js",
+    "static/js/2.fafc357f.chunk.js",
+    "static/css/main.c3c1802d.chunk.css",
+    "static/js/main.410c662f.chunk.js"
+  ]
+}
