@@ -93,6 +93,7 @@ const App = () => {
 
   useEffect(() => {
     const currentElement = element;
+
     const currentObserver = observer.current;
 
     if (currentElement) {
